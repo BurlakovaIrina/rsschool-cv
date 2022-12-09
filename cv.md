@@ -5,12 +5,12 @@
 * lidarino4ka@gmail.com
 * _Ирина Мурлакова#8334_ - Discord
 
-### **About myself**
+### **About myself:**
 1. To be well-organised and positive-minded
-2. To have the ability to work independently as well as part of a team
-3. To be a highly motivated and versatile individual
-4. To have great listening skills
-5. To be empathetic to others and able to build rapport 
+1. To have the ability to work independently as well as part of a team
+1. To be a highly motivated and versatile individual
+1. To have great listening skills
+1. To be empathetic to others and able to build rapport 
 
 ### **Skills:**
 * JavaScript Basics
