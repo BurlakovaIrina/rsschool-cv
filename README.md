@@ -1,1 +1,1 @@
-# rsschool-cv
+https://burlakovairina.github.io/rsschool-cv/cv
