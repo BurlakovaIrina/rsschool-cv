@@ -1,1 +1,1 @@
-https://burlakovairina.github.io/rsschool-cv/cv
+https://burlakovairina.github.io/rsschool-cv/
